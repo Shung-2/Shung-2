@@ -15,5 +15,4 @@
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/unity%20-%23000000.svg?&style=flat&logo=unity&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
 ![Shung-2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hailsy)](https://solved.ac/{hailsy})
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hailsy">
