@@ -8,8 +8,8 @@
 
 <!-- 소개 -->
 ## ⭐ TMI
-- 취업을 꿈꾸는 신입 게임 개발자 🎮 
-- 블로그 : https://shung-2.github.io/
+- 이직을 꿈꾸는 1년따리 경력 게임 개발자 🎮 
+- 블로그 : https://shung2.tistory.com/
 - 이메일 : <shung_@kakao.com>
 
 ## 🐱‍💻 공부 중
