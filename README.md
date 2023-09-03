@@ -3,8 +3,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShung-2&count_bg=%23F5C110&title_bg=%235C5C5C&icon=openai.svg&icon_color=%23F5C110&title=Visitors&edge_flat=false"/></a>
 </div>
 
-<!-- 코드트리 연동 -->
-[![](https://banner.codetree.ai/v1/banner/hailsy)](https://www.codetree.ai/profiles/hailsy)
+<!-- 백준 연동 -->
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hailsy">
 
 <!-- 소개 -->
 ## ⭐ TMI
@@ -20,5 +20,5 @@
 <!-- 깃허브 커밋 양 -->
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark">
 
-<!-- 백준 연동 -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hailsy">
+<!-- 코드트리 연동 -->
+[![](https://banner.codetree.ai/v1/banner/hailsy)](https://www.codetree.ai/profiles/hailsy)
