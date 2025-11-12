@@ -3,7 +3,7 @@
 
 <!-- 소개 -->
 ## ⭐ TMI
-- 야망넘치는 1년 경력 게임 개발자 🎮 
+- 새로운 꿈을 꾸는 경력 3년 게임 개발자 🎮 
 - 블로그 : https://shung2.tistory.com/
 - 이메일 : <shung_@kakao.com>
 
