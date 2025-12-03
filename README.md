@@ -14,7 +14,7 @@
 
 <!-- 깃허브 커밋 양 -->
 <!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shung-2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=스타일)
 
 <!-- 코드트리 연동 -->
 [![](https://banner.codetree.ai/v1/banner/hailsy)](https://www.codetree.ai/profiles/hailsy)
