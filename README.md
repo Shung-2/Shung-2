@@ -14,7 +14,8 @@
 
 <!-- 깃허브 커밋 양 -->
 <!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark"> -->
-<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark)
+<!-- <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=tokyonight)
 
 <!-- 코드트리 연동 -->
 <!--[![](https://banner.codetree.ai/v1/banner/hailsy)](https://www.codetree.ai/profiles/hailsy)-->
