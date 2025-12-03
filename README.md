@@ -14,6 +14,7 @@
 
 <!-- 깃허브 커밋 양 -->
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Shung-2&show_icons=true&theme=dark">
+<img align='left' src="https://clickme.today/api/clicks/count?id=Shung-2">
 
 <!-- 코드트리 연동 -->
 [![](https://banner.codetree.ai/v1/banner/hailsy)](https://www.codetree.ai/profiles/hailsy)
